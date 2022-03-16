@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967355667607",
+    "project_id": "photoframe-8b5f6",
+    "storage_bucket": "photoframe-8b5f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967355667607:android:bc24d07356ac3a9ee405d2",
+        "android_client_info": {
+          "package_name": "com.example.photoframe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967355667607-c32c5rkfjm5qabclsf216icfvdqfmiu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photoframe",
+            "certificate_hash": "914945b82052b9edbcc0ef8198c4a13d493688ca"
+          }
+        },
+        {
+          "client_id": "967355667607-ugl9mg6kj1qujnrc93jjgdov9eoijoee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZellniTVO7LxSo1z3ug9g5cDbUYKLes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967355667607-ugl9mg6kj1qujnrc93jjgdov9eoijoee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
